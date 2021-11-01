@@ -2,13 +2,14 @@
   "expo": {
     "name": "crownbase",
     "slug": "crownbase",
+    "owner": "crownbasepro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logo-royal-crown-white.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#A61008"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,12 +22,13 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#A61008"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/crowndesk.png"
+    },
+    "description": ""
   }
 }
